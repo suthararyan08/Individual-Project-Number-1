@@ -1,10 +1,8 @@
-===============================
 Personal Library Management System
 ===============================
 
 This is a Python-based Personal Library Management System that allows users to manage a collection of books. It supports adding, searching, updating, and removing books from a CSV-backed storage system. It also includes data visualization and integration with the Google Books API.
 
-===============================
 Instructions for Running the Program
 ===============================
 
@@ -23,7 +21,6 @@ Instructions for Running the Program
    - Visualize books by genre using a bar chart
    - Import books from Google Books API
 
-===============================
 Features Implemented
 ===============================
 
@@ -35,7 +32,6 @@ Features Implemented
 ✔ Visualize book counts by genre using matplotlib  
 ✔ Import books from Google Books API  
 
-===============================
 External References Used
 ===============================
 
